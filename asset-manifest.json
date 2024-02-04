@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/car-renting/static/css/main.f04cb679.css",
+    "main.js": "/car-renting/static/js/main.dbdda460.js",
+    "static/media/hill.jpg": "/car-renting/static/media/hill.c25f491e34a74c3ddfe9.jpg",
+    "static/media/hawai.jpg": "/car-renting/static/media/hawai.e845d6ab2e8dbf09926c.jpg",
+    "static/media/car-care.jpg": "/car-renting/static/media/car-care.bbf2f2c645fc73e895f5.jpg",
+    "static/media/mount.jpg": "/car-renting/static/media/mount.9cd9301ae930b0809206.jpg",
+    "static/media/cars.jpg": "/car-renting/static/media/cars.965b8a247b36d8a43bbf.jpg",
+    "static/media/Ferrari.webp": "/car-renting/static/media/Ferrari.ee42ce3f4172b283d5a1.webp",
+    "static/media/hybrid.jpg": "/car-renting/static/media/hybrid.e1b23d50d7192bc5f40b.jpg",
+    "static/media/SUV.jpg": "/car-renting/static/media/SUV.7acbbbc31396bdb8aadb.jpg",
+    "static/media/blueCar.jpg": "/car-renting/static/media/blueCar.70d7a8c9ad918d2dc50e.jpg",
+    "static/media/pickup.webp": "/car-renting/static/media/pickup.566586943eee922d4453.webp",
+    "static/media/beach.jpg": "/car-renting/static/media/beach.46df9a4454ac364bbc88.jpg",
+    "static/media/camping.jpg": "/car-renting/static/media/camping.b9c2669fe455cc7a3d6a.jpg",
+    "static/media/sunset.avif": "/car-renting/static/media/sunset.4b69ace8ce1c41a281c7.avif",
+    "static/media/t-tips.jpg": "/car-renting/static/media/t-tips.0f65295e9d189537e6d5.jpg",
+    "static/media/tour.webp": "/car-renting/static/media/tour.3971d6dcc33867f4b36c.webp",
+    "static/media/big-truck.webp": "/car-renting/static/media/big-truck.b12c9fdae48de2a3fab8.webp",
+    "static/media/electric.webp": "/car-renting/static/media/electric.25023773ca315ccd97d7.webp",
+    "static/media/waterfall.webp": "/car-renting/static/media/waterfall.9be7badeccc1995c5bf8.webp",
+    "static/media/BMW.webp": "/car-renting/static/media/BMW.138288b4e2c442682bf0.webp",
+    "static/media/porshe.jpg": "/car-renting/static/media/porshe.04b0b0ec11b108ee9b0d.jpg",
+    "static/media/off-road.webp": "/car-renting/static/media/off-road.582285823fe988c0a2e6.webp",
+    "static/media/redCar.jpg": "/car-renting/static/media/redCar.7217a3888cb80ed1080a.jpg",
+    "static/media/whiteCar.webp": "/car-renting/static/media/whiteCar.c7bead3350df3a2d15d4.webp",
+    "static/media/mercedes-Benz.webp": "/car-renting/static/media/mercedes-Benz.dd455646f5e20b28d00f.webp",
+    "index.html": "/car-renting/index.html",
+    "main.f04cb679.css.map": "/car-renting/static/css/main.f04cb679.css.map",
+    "main.dbdda460.js.map": "/car-renting/static/js/main.dbdda460.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f04cb679.css",
+    "static/js/main.dbdda460.js"
+  ]
+}
